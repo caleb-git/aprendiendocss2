@@ -34,7 +34,7 @@
 }
 
 .cajita:hover{
-    transform:translate(80px, 80px);
+    transform:scale(2);
 }
 
 .cajita > a{
