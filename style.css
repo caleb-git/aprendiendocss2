@@ -34,7 +34,7 @@
 }
 
 .cajita:hover{
-    transform:rotate(-1turn);
+    transform:skew(30deg, 50deg);
 }
 
 .cajita > a{
