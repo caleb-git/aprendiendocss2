@@ -30,11 +30,12 @@
     background-color: black;
 
     transition: transform 2s;
+    transform-origin: bottom;
 
 }
 
 .cajita:hover{
-    transform:skew(30deg, 50deg);
+    transform:rotate(90deg);
 }
 
 .cajita > a{
